@@ -1,0 +1,51 @@
+a:link,body{color:#000}
+
+#pagefooter,#topnavigation a:hover{background-color:#f98d00;color:#fff}
+
+#pagefooter,#title,.center-text{text-align:center}
+
+#left,td,th,ul{text-align:left}
+
+body{background-color:#fff9e6;font-family:Arial,sans-serif}
+
+h1,h2,h3{font-family:Helvetica,sans-serif}
+
+h1{color:#00f;text-align:left}
+
+h2{color:red;font-style:italic}
+
+h3{color:#7d20d5}
+
+a:visited{color:#170263}
+
+a:hover{font-weight:700}
+
+#title{font-size:6em;color:#0e0904}
+
+#topnavigation{background-color:#f7a740;overflow:hidden}
+
+#topnavigation ul{list-style:none;margin:0;padding:0}
+
+#topnavigation li{float:left}
+
+#topnavigation a{display:block;padding:14px 16px;text-decoration:none;color:#000;font-weight:700}
+
+#pagefooter{clear:both;padding:10px;border-top:2px solid #000}
+
+.topnavigationlink{clear:left;margin-left:1em;font-size:1.1em}
+
+.sidenavigationlink{font-size:1em}
+
+table{border-collapse:collapse;width:100%;max-width:1000px;table-layout:fixed;margin-left:0;margin-right:auto}
+
+ul{list-style-type:circle}
+
+ol{list-style-type:lower-roman}
+
+td,th{border:1px solid #747272;padding:6px}
+
+nav img{width:150px;height:auto}
+
+section img{max-width:100%;height:auto;display:block}
+
+form label{display:inline-block;width:150px;margin-bottom:8px}
